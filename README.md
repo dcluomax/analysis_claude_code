@@ -389,3 +389,6 @@ if (tokenUsage > CONTEXT_THRESHOLD * 0.92) {
 **项目灵感来源**: [claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)  
 **维护团队**: ShareAI-Lab
 
+## Further Reading
+
+- [Secure Self-Hosted LLM](https://orthogonal.info/secure-self-hosted-llm-enterprise-practices-at-home/) — Enterprise-grade practices for running self-hosted LLMs securely
